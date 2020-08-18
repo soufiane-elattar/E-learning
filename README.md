@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # E-learning
 project for school
 =======
